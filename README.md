@@ -2,7 +2,7 @@
 
 ## Datos del alumno
 
-- **Nombre del alumno:** Angelina Briones Cerezo
+- **Nombre:** Angelina Briones Cerezo
 - **Grupo:** 1º A
 - **Asignatura:** Fundamentos de Programación
 
